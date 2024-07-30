@@ -15,7 +15,6 @@ News App is a Flutter-based mobile application that delivers up-to-date news art
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
-- [Support](#support)
 
 ## Project Structure
 ```
