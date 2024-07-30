@@ -124,6 +124,3 @@ We welcome contributions to the News App project. You can submit a Pull Request 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Support
-If you encounter any issues or have questions, please [file an issue](https://github.com/yourusername/news_app/issues) on the GitHub repository.
