@@ -12,7 +12,7 @@ pubspec.lock
 doc/api/
 
 # dotenv environment variables file
-.env*
+.env
 
 # Avoid committing generated Javascript files:
 *.dart.js
@@ -28,3 +28,4 @@ doc/api/
 
 # FVM Version Cache
 .fvm/
+coverage/
