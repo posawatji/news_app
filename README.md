@@ -120,7 +120,7 @@ open coverage/html/index.html
 ```
 
 ## Contributing
-We welcome contributions to the News App project. Before submitting pull requests, please read our [contributing guidelines](CONTRIBUTING.md).
+We welcome contributions to the News App project. You can submit a Pull Request (PR) with your proposed changes.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
